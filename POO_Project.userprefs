@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="GladiatorArena\GladiatorArena.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GladiatorArena\Properties\Matchs\TvT.cs">
+    <Files>
+      <File FileName="GladiatorArena\Program.cs" Line="9" Column="28" />
+      <File FileName="GladiatorArena\Properties\Test.cs" Line="1" Column="1" />
+      <File FileName="GladiatorArena\Properties\Matchs\TvT.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+C:\Users\Maxime\Documents\Projects\POO_Project\GladiatorArena\bin\Debug\GladiatorArena.exe
+C:\Users\Maxime\Documents\Projects\POO_Project\GladiatorArena\bin\Debug\GladiatorArena.pdb
+C:\Users\Maxime\Documents\Projects\POO_Project\GladiatorArena\obj\x86\Debug\GladiatorArena.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Projects\POO_Project\GladiatorArena\obj\x86\Debug\GladiatorArena.exe
+C:\Users\Maxime\Documents\Projects\POO_Project\GladiatorArena\obj\x86\Debug\GladiatorArena.pdb
